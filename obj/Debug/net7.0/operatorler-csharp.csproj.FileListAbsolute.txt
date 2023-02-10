@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\operatorler-csharp\bin\Debug\net7.0\operatorler-csharp.exe
+C:\Users\user\Desktop\yazılım\operatorler-csharp\bin\Debug\net7.0\operatorler-csharp.deps.json
+C:\Users\user\Desktop\yazılım\operatorler-csharp\bin\Debug\net7.0\operatorler-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\operatorler-csharp\bin\Debug\net7.0\operatorler-csharp.dll
+C:\Users\user\Desktop\yazılım\operatorler-csharp\bin\Debug\net7.0\operatorler-csharp.pdb
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.dll
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\refint\operatorler-csharp.dll
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.pdb
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\operatorler-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\operatorler-csharp\obj\Debug\net7.0\ref\operatorler-csharp.dll
